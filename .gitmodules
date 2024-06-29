@@ -1,0 +1,9 @@
+[submodule "COMP3141"]
+	path = COMP3141
+	url = git@github.com:dysthesis/COMP3141.git
+[submodule "COMP3121"]
+	path = COMP3121
+	url = git@github.com:dysthesis/COMP3121.git
+[submodule "COMP6445"]
+	path = COMP6445
+	url = git@github.com:dysthesis/COMP6445.git
